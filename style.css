@@ -1,0 +1,39 @@
+.img-responsive img{
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+}
+
+.text_images_and_result{
+    background-color: #f5dbdA;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: #f5c8c6;
+}
+b{
+    color: purple;
+}
+
+#test_image{
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+.final_result{
+    margin-top: 10px;
+    background-color: lightsalmon;
+    font-size: 25px;
+}
